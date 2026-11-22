@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 455 >>
+stream
+BT /F2 26 Tf 72 770 Td (INVOICE) Tj ET
+0.75 g 72 755 451 1.5 re f 0 g
+BT /F1 13 Tf 72 720 Td (Vendor: Contoso Supplies Ltd) Tj ET
+BT /F1 13 Tf 72 692 Td (InvoiceNumber: CSL-20418) Tj ET
+BT /F1 13 Tf 72 664 Td (InvoiceDate: 2026-11-03) Tj ET
+BT /F1 13 Tf 72 636 Td (PONumber: PO-1001) Tj ET
+BT /F1 13 Tf 72 608 Td (Amount: 1,250.00) Tj ET
+0.75 g 72 590 451 1.5 re f 0 g
+BT /F1 10 Tf 72 565 Td (Payment terms net 30 days. Thank you for your business.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000757 00000 n 
+0000000827 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+902
+%%EOF
