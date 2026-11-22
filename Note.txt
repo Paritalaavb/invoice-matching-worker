@@ -1,0 +1,7 @@
+The hardest part for me was the retry flow. If an invoice doesn't match, it should be tried 3 times and then go to exceptions with a reason, and the same file should never be added twice.
+
+I used AI to build the first version, but it couldn't run the code. I built it and tested the full flow myself in Visual Studio.
+
+The sample PDFs it gave were just text files and wouldn't open. I replaced them with real PDFs and changed the code to read the text from them.
+
+The app also had no home page and didn't open in the browser. I added a home page with links and turned on browser launch.
